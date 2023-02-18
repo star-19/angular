@@ -1,0 +1,20 @@
+.card{
+    
+    
+        position: relative;
+        
+        height: 420px;
+        margin: 0 auto;
+        background:wheat;
+        border-radius: 15px;
+        box-shadow: 0 15px 60px rgba(0, 0, 0, 0.5);
+    
+        
+        
+    
+      
+  
+}
+.img{
+    height: 300px;
+}
